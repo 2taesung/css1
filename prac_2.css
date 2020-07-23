@@ -1,28 +1,40 @@
-* {
-  margin: 0;
-}
-.todo_1 {
-  width: 500px;
-  height: 349px;
-  background-color: coral;
 
+
+.todo_1 {
+  width: 100px;
+  height: 100px;
+  opacity: 0.5;
+
+  background-color: coral;
+  position: absolute;
+  top: 10px;
+  left: 60px;
   /* TODO */
   /* 포지션 구현하기 */
   /* 불투명도 구현하기 */
 }
 .todo_2 {
-  width: 500px;
-  height: 349px;
-  background-color: lightseagreen;
+  width: 100px;
+  height: 100px;
+  opacity: 0.5;
 
+  background-color: lightseagreen;
+  position: absolute;
+  top: 10px;
+  left: 40px;
   /* TODO */
   /* 포지션 구현하기 */
   /* 불투명도 구현하기 */
 }
 .todo_3 {
-  width: 500px;
-  height: 349px;
+  width: 100px;
+  height: 100px;
+  opacity: 0.5;
+
   background-color: lightskyblue;
+  position: absolute;
+  top: 10px;
+  left: 20px;
 
   /* TODO */
   /* 포지션 구현하기 */
@@ -31,9 +43,9 @@
 }
 
 .sample_img {
-  width: 536px;
-  height: 349px;
-
+  width: 100px;
+  height: 100px;
+  opacity: 0.5;
   position: absolute;
-  top: 200px;
+  top: 10px;
 }
